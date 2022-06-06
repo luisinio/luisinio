@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @luisinio
 - 👀 I’m interested in development
-- 🌱 I’m currently learning fullstack
-- 💞️ I’m looking to collaborate on online
-- 📫 How to reach me by here ;)
+
 
 <!---
 luisinio/luisinio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
