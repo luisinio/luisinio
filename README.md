@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luisinio
-- 👀 I’m interested in development
+
 
 
 <!---
